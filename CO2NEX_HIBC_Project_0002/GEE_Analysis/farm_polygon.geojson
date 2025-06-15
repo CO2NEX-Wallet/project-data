@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "farm_id": "CO2NEX_HIBC_0002"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-56.000, -14.000],
+            [-56.002, -14.000],
+            [-56.002, -14.002],
+            [-56.000, -14.002],
+            [-56.000, -14.000]
+          ]
+        ]
+      }
+    }
+  ]
+}
