@@ -1,5 +1,8 @@
 <!-- META TAGS FOR SEO -->
-<title>CO2NEX Wallet Project Data | Blockchain Carbon Credit Verification</title>
+# CO2NEX Wallet Project Data
+### Blockchain Carbon Credit Verification | IPFS Metadata | Satellite MRV
+
+> **Satellite MRV → IPFS Metadata → On-Chain Verification for Carbon, Water, and Biodiversity Credits.**
 <meta name="description" content="CO2NEX Wallet Project Data — Satellite-based MRV, IPFS metadata, and blockchain token records for transparent carbon and water credit certification.">
 <meta name="keywords" content="CO2NEX, carbon credits, blockchain, Polygon, MRV, IPFS, climate-tech, water credits, regenerative finance, nature-based solutions">
 <meta property="og:title" content="CO2NEX Wallet Project Data">
