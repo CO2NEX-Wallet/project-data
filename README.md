@@ -8,7 +8,7 @@
 <meta property="og:url" content="https://github.com/CO2NEX-Wallet/co2nex-wallet-project-data">
 <meta name="twitter:card" content="summary_large_image">
 
-# ![CO2NEX Wallet Project Data](https://your-banner-image-url.com/banner.png)
+# ![CO2NEX Wallet Project Data](https://co2nex.org/wp-content/uploads/2025/06/CO2NEX-ECO-WALLET-HIBC-CARBON-WATER-CREDITS.png)
 
 # CO2NEX Wallet Project Data
 ### *Satellite MRV | IPFS Metadata | Blockchain Verification*
@@ -111,7 +111,7 @@ CO2NEX welcomes open collaboration to improve transparency in the climate credit
 
 ---
 
-## 📊 Banner Placeholder
+## 📊
 
 ![Banner](https://co2nex.org/wp-content/uploads/2025/06/CO2NEX-ECO-WALLET-HIBC-CARBON-WATER-CREDITS.png)
 
