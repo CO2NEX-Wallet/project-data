@@ -107,7 +107,7 @@ CO2NEX welcomes open collaboration to improve transparency in the climate credit
 
 ## 📞 Contact
 
-- 🌐 [Website](https://co2nex.org) *(placeholder link)*  
+- 🌐 [Website](https://co2nex.org)
 - 🐦 [Twitter](https://twitter.com/CO2NEX)  
 - 📫 Email: social@co2nex.org  
 
