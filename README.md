@@ -13,7 +13,6 @@
 
 # ![CO2NEX Wallet Project Data](https://co2nex.org/wp-content/uploads/2025/06/CO2NEX-ECO-WALLET-HIBC-CARBON-WATER-CREDITS.png)
 
-# CO2NEX Wallet Project Data
 ### *Satellite MRV | IPFS Metadata | Blockchain Verification*
 
 [![Version](https://img.shields.io/badge/version-1.0.0--alpha-blue.svg)]()
