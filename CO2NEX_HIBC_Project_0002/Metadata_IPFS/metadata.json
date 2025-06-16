@@ -8,10 +8,6 @@
       "trait_type": "Biome",
       "value": "Cerrado Tropical Savanna"
     },
-     {
-      "trait_type": "Google Earth Engine APP",
-      "external_url": "https://co2nex-carbon-credit.projects.earthengine.app/view/co2nex-cerrado-guardian--voluntary-carbon-credit-project"
-    },
     {
       "trait_type": "Methodology",
       "value": "REDD Verra 007"
@@ -29,12 +25,12 @@
       "value": 0.71
     },
     {
-      "trait_type": "Verification",
+      "trait_type": "Verification Method",
       "value": "Satellite (GEE)"
     },
     {
       "trait_type": "Landowner",
-      "value": "Fazenda Capada"
+      "value": "Fazenda Chapada"
     },
     {
       "trait_type": "Country",
@@ -43,6 +39,10 @@
     {
       "trait_type": "Date Registered",
       "value": "2024-06-15"
+    },
+    {
+      "trait_type": "GEE App",
+      "value": "https://co2nex-carbon-credit.projects.earthengine.app/view/co2nex-cerrado-guardian--voluntary-carbon-credit-project"
     }
   ],
   "geodata": {
