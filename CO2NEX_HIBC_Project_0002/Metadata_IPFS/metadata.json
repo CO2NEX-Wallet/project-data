@@ -8,6 +8,10 @@
       "trait_type": "Biome",
       "value": "Cerrado Tropical Savanna"
     },
+     {
+      "trait_type": "Google Earth Engine APP",
+      "external_url": "https://co2nex-carbon-credit.projects.earthengine.app/view/co2nex-cerrado-guardian--voluntary-carbon-credit-project"
+    },
     {
       "trait_type": "Methodology",
       "value": "REDD Verra 007"
@@ -30,7 +34,7 @@
     },
     {
       "trait_type": "Landowner",
-      "value": "Farm ABC Ltda"
+      "value": "Fazenda Capada"
     },
     {
       "trait_type": "Country",
